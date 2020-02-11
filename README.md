@@ -1,6 +1,6 @@
 # A-Detailed-Guide-on-OSCP-Preparation
 The Journey to Try Harder: 
-                  For the past 2 years of my life I had one goal: Pass OSCP on my first try. This guide contains those resources and my advice to prepare for your adventure to take the PWK/OSCP!
+                  For the past years of my life I had one goal: Pass OSCP on my first try. This guide contains those resources and my advice to prepare for your adventure to take the PWK/OSCP!
                   
                   From the syllabus I will breakdown each section by providing you the resources I used to prepare for the course. Once I finish going through the syllabus, I will also be providing some extra resources that came in handy. You don’t need to use this guide in order; feel free to jump around as it suits you.
 
