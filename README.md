@@ -93,6 +93,14 @@ http://pentestmonkey.net/tools/audit/unix-privesc-check
 
 http://www.abatchy.com/2017/02/oscp-like-vulnhub-vms.html
 
+Exploiting a machine is a Systematic Process:
+
+1)Find the open ports and services running on ports
+2)Enumerate the services and the machine
+3)Exploit the correct vulnerability and gain access
+4)Do proper post exploitation enumeration
+5)Privilege Escalation
+
 The VMs in the above link will be like OSCP labs. You can start solving these VMs. For the vulnhub VMs, there are walkthroughs for each machine. You can try each machine first by yourself. Else read the walkthrough, understand it, and then try to implement the method again in the VMs.
 
 Also, try this https://www.hackthebox.gr/
