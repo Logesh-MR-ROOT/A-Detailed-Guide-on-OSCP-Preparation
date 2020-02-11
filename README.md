@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=1S0aBV-Waeo
 
 What is Buffer Overflow?  (very clearly explained). After watching this video, you will get an idea on the concept behind buffer overflow. Also, will increase your urge on learning buffer overflow.
 
- Assembly language primer by Vivek Ramachandran. http://www.securitytube.net/groups?operation=view&groupId=5
+ by Vivek Ramachandran. http://www.securitytube.net/groups?operation=view&groupId=5
 
 Don’t get bored after seeing Assembly language. Just go through the first 2 videos in this video series. That is enough for understanding the memory layout.
 
@@ -101,7 +101,7 @@ How to prepare for OSCP complete guide
 
 Below are 5 skills which you have to improve before registering for OSCP
 
-Learn basic of Computer Network, Web application, and Linux Learn Bash and Python scripting Enumeration is key in OSCP lab, I repeat Enumeration is key in OSCP Lab and in real world too Download vulnerable VM machines from vulnhub Buffer Overflow (BOF) exploitation
+ I repeat Enumeration is key in OSCP Lab and in real world too Download vulnerable VM machines from vulnhub Buffer Overflow (BOF) exploitation
 
 Below are the free reference before registration of OSCP
 
