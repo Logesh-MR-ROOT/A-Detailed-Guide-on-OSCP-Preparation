@@ -4,21 +4,21 @@ The Journey to Try Harder:
                   
                   From the syllabus I will breakdown each section by providing you the resources I used to prepare for the course. Once I finish going through the syllabus, I will also be providing some extra resources that came in handy. You don’t need to use this guide in order; feel free to jump around as it suits you.
 
-Getting Comfortable with Kali Linux
-Essential Tools in Kali
-Passive Reconnaissance
-Active Reconnaissance
-Vulnerability Scanning
-Buffer Overflows
-Working with Public Exploits
-File Transfer
-Privilege Escalation
-Client-Side Attacks
-Web Application Attacks
-Password Attacks
-Tunneling/Pivoting
-Introduction to the Metasploit Framework
-Antivirus Bypassing
+Getting Comfortable with Kali Linux,
+Essential Tools in Kali,
+Passive Reconnaissance,
+Active Reconnaissance,
+Vulnerability Scanning,
+Buffer Overflows,
+Working with Public Exploits,
+File Transfer,
+Privilege Escalation,
+Client-Side Attacks,
+Web Application Attacks,
+Password Attacks,
+Tunneling/Pivoting,
+Introduction to the Metasploit Framework,
+Antivirus Bypassing,
                Kali Linux Revealed and Online Course: A good foundational course that helped me understand more about Kali Linux and it has a nice Linux Fundamentals section as well.
 
 Book Link: https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
